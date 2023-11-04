@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=DATA_N Pin=R2-1
+Removed Pin From Net: NetName=DATA_N Pin=R2-2
+Removed Pin From Net: NetName=DATA_P Pin=R3-1
+Removed Pin From Net: NetName=DATA_P Pin=R3-2
+Added Component: Designator=R2(RESC1005X40X25LL05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-2GEJ270X"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1005X40X25LL05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-2GEJ270X"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DATA_N Pin=R2-1
+Added Pin To Net: NetName=DATA_N Pin=R2-2
+Added Pin To Net: NetName=DATA_P Pin=R3-1
+Added Pin To Net: NetName=DATA_P Pin=R3-2

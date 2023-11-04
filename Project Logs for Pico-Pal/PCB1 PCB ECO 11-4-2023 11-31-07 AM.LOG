@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=DATA_N Pin=R2-1
+Added Pin To Net: NetName=DATA_P Pin=R3-1
+Added Pin To Net: NetName=DATA_N Pin=U1-46
+Added Pin To Net: NetName=DATA_P Pin=U1-47

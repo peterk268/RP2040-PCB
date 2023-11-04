@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=QSPI_CS Pin=R5-1
+Removed Pin From Net: NetName=NetR4_1 Pin=R5-2
+Added Component: Designator=R5(RESC1608X55X30LL15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=QSPI_CS Pin=R5-1
+Added Pin To Net: NetName=NetR4_1 Pin=R5-2
