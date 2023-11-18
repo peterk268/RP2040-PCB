@@ -1,0 +1,6 @@
+Add Pin To Net: Unknown Pin: Pin J1-A1-B12
+Add Pin To Net: Unknown Pin: Pin J1-B1-A12
+Change Net Name : Old Net Name=5V New Net Name=VIN
+Change Net Name : Old Net Name=NetC4_1 New Net Name=FB
+Change Net Name : Old Net Name=NetC18_1 New Net Name=SW
+Change Net Name : Old Net Name=NetC18_2 New Net Name=BOOT
